@@ -3,7 +3,7 @@
 ####
 This is a fork of [francdv23's OBS Recordings Organizer](https://github.com/francdv23/OBS-Recordings-Organizer) and adds a few features, namely:
 ####
--The possibility to automatically cut replay buffers that overlap (with or without re-encoding the clips); it uses ffmpeg/ffprobe when saving a clip, thus in order to properly function it requires the built executables (i have put an already built binary inside the full release version).
+-The possibility to automatically cut replay buffer clips that overlap (with or without re-encoding the clips); it uses ffmpeg/ffprobe when saving a clip, thus in order to properly function it requires the built executables (i have put an already built binary inside the full release version).
 ### 
 -The ability to choose whether to prefix the clip title with the game name or not (got the idea from [padiix](https://github.com/padiix/OBS-Recordings-Organizer)'s fork, thank you).
 #### 
