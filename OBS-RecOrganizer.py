@@ -374,7 +374,7 @@ def script_description():
     desc = ("<h3>OBS Recording Organizer Upgraded <br> (<u>09.2024</u> update)</h3>"
             "<hr>"
             "Renames and organizes recordings into subfolders similar to NVIDIA ShadowPlay (<i>NVIDIA GeForce Experience</i>).<br><br>"
-            "<small><a href="">GitHub repo link</a></small><br><br>"
+            "<small><a href='https://github.com/EnKhayzo/OBS-Recordings-Organizer'>GitHub repo link</a></small><br><br>"
             "<small>Original author:</small> <a href='https://obsproject.com/forum/resources/obs-recordings-organizer.1707/'><b>francedv23</b></a><br>"
             "<small>Updated by:</small> <b>enkhayzo</b><br><br>"
             "<small>Markup description by </small> <a href='https://github.com/padiix/OBS-Recordings-Organizer'><b>padii</b></a><small>'s fork (thank you)</small><br><br>"
