@@ -18,7 +18,7 @@ This script has been tested on Python 3.12 [(3.12.3 recommended)](https://www.py
 pip install pywin32
 pip install psutil
 ```
-Python can now be loaded in OBS by `Tools > Scripts > Python Settings` and choosing Python3126 path.
+Python can now be loaded in OBS by `Tools > Scripts > Python Settings` and choosing Python3123 path.
 ### Next steps
 #### 
 After the previous indications the actual script can be now installed. It doesn't need to be placed in a specific directory, for convenience the scripts folder located at `C:\Program Files\obs-studio\data\obs-plugins\frontend-tools\scripts\obs-rec-organizer` is ideal. It can be loaded into OBS by `Tools > Scripts` hit the *__"+"__* sign and search for _OBS-RecOrganizer.py_ from the previous path.
