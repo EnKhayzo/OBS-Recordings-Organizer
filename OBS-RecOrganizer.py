@@ -186,7 +186,6 @@ def cut_video(input_path, output_path, start_time, end_time):
             output_path 
         ], onLine)
     else:
-        print("dont 're encode!!!!")
         return_code = startProcess([ 
             get_ffmpeg_exe_path(), 
             '-y',
@@ -325,7 +324,7 @@ def get_window_title():
     title = re.sub(r'[^0-9A-Za-z .-]', '', title)
     title = title[:50]
 
-    return title
+    return title.strip()
 
 
 
